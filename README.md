@@ -65,10 +65,11 @@ This project focuses on analyzing large-scale layoffs in the tech industry using
 
 ## 🚀 How to Use
 1. Clone this repository
-2. Run `Data Cleaning-Layoffs.sql` first
-3. Then run `EDA-Layoffs.sql` to extract insights
+2. Import the `layoffs.csv` dataset into your SQL environment (MySQL, PostgreSQL, etc.)
+3. Run `Data Cleaning-Layoffs.sql` first
+4. Then run `EDA-Layoffs.sql` to extract insights
 
 ---
 
-GitHub Repository: [Your GitHub Repo URL](https://github.com/Atharpatel3/layoffs-MySQL-analysis)
+GitHub Repository: [My GitHub Repo URL](https://github.com/Atharpatel3/layoffs-MySQL-analysis)
 
