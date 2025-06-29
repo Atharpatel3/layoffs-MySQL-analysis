@@ -2,6 +2,11 @@
 
 This project focuses on analyzing large-scale layoffs in the tech industry using structured SQL queries. It includes **data cleaning**, **standardization**, and **exploratory data analysis (EDA)** to uncover insights from company layoffs.
 
+# 📁 Dataset
+
+**File:** `layoffs.csv`  
+**Source:** Publicly available dataset of tech layoffs (2020–2023) 
+
 ---
 
 ## 📁 Files
