@@ -70,5 +70,5 @@ This project focuses on analyzing large-scale layoffs in the tech industry using
 
 ---
 
-GitHub Repository: [Your GitHub Repo URL](https://github.com/yourusername/layoffs-sql-analysis)
+GitHub Repository: [Your GitHub Repo URL](https://github.com/Atharpatel3/layoffs-MySQL-analysis)
 
